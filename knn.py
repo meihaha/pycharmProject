@@ -55,6 +55,7 @@ print(model.predict([[1.75,1.75]]))
 print(model.predict_proba([[1.75,1.75]]))
 print(model.score(x,y))
 
+print('hello')
 
 
 
