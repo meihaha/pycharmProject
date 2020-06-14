@@ -119,3 +119,5 @@ plt.title('Roc curve for diabets classifier')
 plt.xlabel('False positive rate(1-Specificity)')
 plt.ylabel('True positive rate(Sensitivity)')
 plt.grid(True)
+
+print('hello')
